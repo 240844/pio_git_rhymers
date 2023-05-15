@@ -1,5 +1,9 @@
 package edu.kis.vh.nursery;
 
+/**
+ * Klasa DefaultCountingOutRhymer reprezentuje strukturę danych wyliczania rymów.
+ * Pozwala na wliczanie i wyliczanie pierwiastków w oparciu o zasadę LIFO.
+ */
 public class DefaultCountingOutRhymer {
 
     private final int EMPTY = -1;
